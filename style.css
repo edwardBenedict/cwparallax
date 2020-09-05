@@ -21,21 +21,17 @@ html {
 }
 
 .pimg1 {
-  background-image: url("https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-image: url("./images/bg1.jpg");
   min-height: 100%;
 }
 
 .pimg2 {
-  background-image: url("https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-image: url("./images/bg2.jpg");
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url("https://images.pexels.com/photos/1447092/pexels-photo-1447092.png?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-image: url("./images/bg3.jpg");
   min-height: 400px;
-}
-.pimg4 {
-  background-image: url("https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  min-height: 100%;
 }
 
 .section {
